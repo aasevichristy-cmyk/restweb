@@ -241,7 +241,8 @@ menu.html
 ![alt text](<Screenshot 2025-12-19 114635.png>)
 ![alt text](<Screenshot 2025-12-19 114647.png>)
 ![alt text](<Screenshot 2025-12-19 114658.png>)
-![alt text](<Screenshot 2025-12-19 114658.png>)
+<img width="1902" height="919" alt="Screenshot 2025-12-19 115940" src="https://github.com/user-attachments/assets/2cb743be-0a3a-4cf9-99ba-11bde0f04930" />
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
